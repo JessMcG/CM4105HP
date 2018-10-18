@@ -1,1 +1,1 @@
-# CM4105
+# CM4105 Honours Project
